@@ -75,6 +75,8 @@ print("hello world")
 
 <!--- GITHUB MARKDOWN --->
 * [x] task 1
-* [] task 2
-* [] task 3
+* [ ] task 2
+* [ ] task 3
 * [x] task 4
+
+@faztweb :smiley:  :+1:
